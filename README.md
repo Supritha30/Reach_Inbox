@@ -1,12 +1,12 @@
-ReachInbox Assigmnet Using TypeScript And React
+# ReachInbox Assigmnet Using TypeScript And React
 
-Deployment link - [https://reach-inbox-ts.vercel.app/login](https://reachinbox-ai-ts.vercel.app/)
+# Deployment link - [https://reach-inbox-ts.vercel.app/login](https://reachinbox-ai-ts.vercel.app/)
 
 ReachInbox is a revolutionary AI-driven platform transforming cold outreach. It's an all-in-one solution for businesses to effortlessly find, enrich, and engage high-intent leads using multi-channel outreach across Twitter, LinkedIn, email, and phone. ReachInbox acts as your AI-powered growth team, continuously generating top-tier leads and enhancing large-scale cold email marketing campaigns.
 
 Project Details This project, named "One Box", is a Next.js application that shows emails and helps users reply to them. It includes features such as user authentication, email fetching, reply functionality, keyboard shortcuts, a custom text editor, and both light and dark modes.
 
-Features:-
+# Features:-
 1.User Authentication: Implemented login page using the provided design. 
 2.Email Viewing: Fetch and display emails in the OneBox screen after login.
 3.API Integration: GET /onebox/list GET /onebox/:thread_id DELETE /onebox/:thread_id
@@ -16,10 +16,10 @@ Features:-
 POST /reply/:thread_id { "from": "email", "to": "email", "subject": "", "body": "" } 
 7.Light and Dark Mode: Supports both themes.
 
-Setup: 
+# Setup: 
 Prerequisites 1.Node.js 2.npm
 
-Installation
+# Installation
 
 1.Clone the repository: git clone https://github.com/rudravashishtha/onebox.git cd onebox
 2.Install dependencies: npm install 
@@ -27,7 +27,7 @@ Installation
 4.Open http://localhost:3000 with your browser to see the result.
 
 
-Features
+# Features
 Dark Mode, Light Mode
 Google Authentication
 TypeScript
